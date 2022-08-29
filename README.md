@@ -1,2 +1,2 @@
 # ml-pipeline
-⚡ Sample code for machine Learning Pipeline with Scikit-learn ⚡
+⚡ Pipeline with Scikit-learn ⚡
